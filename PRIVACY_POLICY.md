@@ -33,6 +33,12 @@ does not request microphone, contacts or personal photo access.
 
 ## Advertising
 
+An optional age-group choice is stored locally without collecting a date of
+birth. Unknown-age and under-16 users receive no ads; the app does not request
+UMP consent or initialize advertising for them. Users 16+ still require UMP
+authorization. Review your age group in Settings. No content is locked behind
+this choice.
+
 Selected navigation and information screens use Google AdMob. Quran readers
 and players, prayer, Qibla and worship tools remain ad-free. We request
 non-personalized ads and a maximum ad content rating of G. These settings do
